@@ -1,0 +1,2 @@
+# gradient
+A discord bot.
